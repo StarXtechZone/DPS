@@ -1,5 +1,0 @@
-pandas
-streamlit
-sklearn
-seaborn
-numpy
